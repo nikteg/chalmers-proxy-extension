@@ -2,7 +2,7 @@
   "name": "Chalmers Library Proxy Redirector",
   "version": "0.0.1",
   "manifest_version": 2,
-  "description": "If you locate an e-resource via a search engine or receive a full-text link some other way, you will not be recognized as a Chalmers user. Use this extension to proxy the e-resource.",
+  "description": "Use this extension to proxy a e-resource through the Chalmers Library Proxy.",
   "icons": {
     "192": "images/icon-192x192.png",
     "512": "images/icon-512x512.png"
